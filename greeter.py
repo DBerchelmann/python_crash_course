@@ -9,4 +9,8 @@ print(f"\nHello, {name}!")
 
 age = input("How old are you? ")
 age = int(age)
-age >= 18
+
+
+car = ("What kind of car are you looking for today? ")
+answer = input(car)
+print(f"\nOk. Let me check our inventory and see what models of {answer} we have available.")
