@@ -10,6 +10,7 @@ print(f"\nHello, {name}!")
 age = input("How old are you? ")
 age = int(age)
 
+# more practice below using the car scenario
 
 car = ("What kind of car are you looking for today? ")
 answer = input(car)
